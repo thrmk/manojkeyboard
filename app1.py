@@ -195,11 +195,11 @@ class Device(Resource):
     )
 
 
-"""    def get(self, devId):
+    def get(self, devId):
         device = DeviceModel.find_by_name(devId)
         if device:
             return device.json()
-        return {'message': 'Device not found'}, 404"""
+        return {'message': 'Device not found'}, 404
 
     def post(self, devId):
         data = Device.parser.parse_args()
