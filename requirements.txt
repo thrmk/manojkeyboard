@@ -34,7 +34,7 @@ Flask-RESTful==0.3.7
 flask-restplus==0.13.0
 Flask-SeaSurf==0.2.2
 Flask-SQLAlchemy==2.4.1
-functools32==3.2.3.post2
+
 future==0.18.2
 gunicorn==19.10.0
 httpagentparser==1.9.0
