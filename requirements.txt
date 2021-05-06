@@ -29,7 +29,7 @@ flake8==3.7.9
 Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
 Flask-Compress==1.4.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 flask-restplus==0.13.0
 Flask-SeaSurf==0.2.2
